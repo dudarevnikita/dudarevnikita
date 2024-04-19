@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I'm Mykyta Dudariev 👋
 
 ## About Me

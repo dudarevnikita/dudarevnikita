@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**dudarevnikita/dudarevnikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Mykyta Dudariev 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer from Ukraine, specializing in PHP, Python, and NodeJS. I'm passionate about creating impactful software solutions and always eager to learn new technologies and improve my skills.
+
+## Skills
+
+- **Languages**: Python, JavaScript, PHP.
+- **Frameworks/Tools**: Flask, NestJS, Laravel, etc.
+- **Other**: Docker, AWS, Continuous Integration, etc.
+
+## Contact Me
+
+- **[LinkedIn](https://www.linkedin.com/in/mykyta-dudariev-614177125/)**
+- **[Email](mailto:mykyta.dudariev@gmail.com)**
+
+Feel free to connect with me or follow me on GitHub to see my latest projects and updates.
+
+

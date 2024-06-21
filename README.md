@@ -12,7 +12,7 @@ I'm a software developer from Ukraine, specializing in PHP, Python, and NodeJS. 
 
 ## Contact Me
 
-- **[LinkedIn](www.linkedin.com/in/mykyta-dudariev)**
+- **[LinkedIn](https://www.linkedin.com/in/mykyta-dudariev)**
 - **[Email](mailto:mykyta.dudariev@gmail.com)**
 
 Feel free to connect with me or follow me on GitHub to see my latest projects and updates.

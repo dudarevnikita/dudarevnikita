@@ -7,7 +7,7 @@ I'm a software developer from Ukraine, specializing in PHP, Python, and NodeJS. 
 ## Skills
 
 - **Languages**: Python, JavaScript, PHP.
-- **Frameworks/Tools**: Flask, NestJS, Laravel, etc.
+- **Frameworks/Tools**: Symfony, Flask, NestJS, etc.
 - **Other**: Docker, AWS, Continuous Integration, etc.
 
 ## Contact Me
